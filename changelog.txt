@@ -1,0 +1,77 @@
+v1.0.8
+
+Updated documentation
+
+Various small fixes
+
+Changed files:
+library/css/style.css, library/css/style.scss, library/js/scripts.js
+
+------------------------------
+
+v1.0.7
+
+Fixed issue with reservation form on mobile devices
+
+Changed files:
+library/css/style.css, library/css/style.scss
+
+------------------------------
+
+v1.0.6
+
+Fixed input size in Subscribe widget in Bottom Panel.
+
+Changed files:
+library/css/style.css, library/css/style.scss
+
+------------------------------
+
+v1.0.5
+
+Fixed wrong classes for Quote and Link post details.
+
+Updated FontAwesome icons to version 4.2.
+
+Changed files:
+blog-quote.html, blog-link.html,
+library/css/style.css, library/css/style.scss, library/css/import/font-awesome.min.css, library/css/import/font-awesome.min.scss, library/fonts
+
+------------------------------
+
+v1.0.4
+
+You can now use radio inputs in the Reservation Form.
+
+Changed files:
+library/js/library.js, library/css/style.scss, library/css/style.css
+
+------------------------------
+
+v1.0.3
+
+Better optimization for iPad.
+
+Changed files:
+library/js/scripts.js, library/css/style.scss, library/css/style.css, all files in library/css/skin
+
+------------------------------
+
+v1.0.2
+
+Fixed the text encoding for Contact and Reservation forms.
+
+Changed files:
+ajax/contact-form.php, ajax/reservation-form.php
+
+------------------------------
+
+v1.0.1
+
+Updated FontAwesome icons to version 4.1.
+
+------------------------------
+
+v1.0.0
+
+Initial themeForest release.
